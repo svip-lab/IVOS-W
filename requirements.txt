@@ -1,0 +1,14 @@
+pillow==6.2
+absl-py
+pandas
+scikit-image
+sklearn
+requests
+pyyaml
+sacred
+easydict
+opencv-python
+Cython
+imgaug
+networkx==2.5
+davisinteractive==1.0.4

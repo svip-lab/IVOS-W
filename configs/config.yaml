@@ -1,0 +1,48 @@
+seed: 0
+gpu_id: 0
+
+phase: eval # baseline, pretrain, train, eval
+setting: wild # oracle | wild
+method: ours # ours | worst | random | linspace
+num_epochs: 1
+dataset: davis
+ckpt_dir: weights
+
+data:
+  num_workers: 2
+  root_dir_davis: data/DAVIS
+  root_dir_scribble_youtube_vos: data/Scribble_Youtube_VOS
+  subset: train
+  len_subseq: 25
+davis_interactive:
+  metric: J_AND_F # J, F, J_AND_F
+  allow_repeat: 1
+  max_nb_interactions: 5
+  max_time_per_interaction: 0 # default: 30
+  combine_th: 0.4
+assess_net:
+  num_epochs: 50
+  lr: 0.000005
+  gamma: 0.95
+  momentum: 0.9
+  weight_decay: 0.0005
+  train_batch_size: 32
+  num_workers: 12
+agent:
+  save_result_dir: train
+  reward_csv: reward.csv
+  pretrain_csv: pretrain.csv
+  sample_th: 0.05
+  optimizer: adam
+  lr: 0.000005
+  lr_pow: 0.9
+  momentum: 0.9
+  weight_decay: 0.0005
+  memory_size: 100000
+  gamma: 0.95
+  eps_start: 0.7
+  eps_end: 0.25
+  eps_k: 5
+  eps_decay: 500
+  update_rate: 0.05
+  train_batch_size: 32

@@ -66,7 +66,7 @@ python eval_agent_{atnet/manet/ipn}.py with setting={oracle/wild} dataset={davis
 
 The results will be stored in `results/{VOS}/{setting}/{dataset}/{method}/summary.json`
 
-**Note**: The results may fluctuate slightly with different version of *networkx*, which used by davisinteractive to generate simulated scribbles.
+**Note**: The results may fluctuate slightly with different versions of *networkx*, which is used by davisinteractive to generate simulated scribbles.
 
 ## Training
 

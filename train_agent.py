@@ -95,6 +95,7 @@ def davis_config(run, _log):
     davis.sets[subset] = seq_list
     cfg_yl.setting = 'oracle'
     cfg_yl.method = 'ours'
+    set_random_seed(2019)
     cfg_yl.num_epochs = 5
     report_save_dir = save_result_dir
 

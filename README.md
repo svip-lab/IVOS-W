@@ -14,7 +14,7 @@
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
 
 [[arXiv](https://arxiv.org/abs/2103.10391)]
-[[Paper]([https://openaccess.thecvf.com/content/CVPR2021/supplemental/Yin_Learning_To_Recommend_CVPR_2021_supplemental.pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_Learning_To_Recommend_Frame_for_Interactive_Video_Object_Segmentation_in_CVPR_2021_paper.pdf))]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_Learning_To_Recommend_Frame_for_Interactive_Video_Object_Segmentation_in_CVPR_2021_paper.pdf)]
 [[Supp. Material](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Yin_Learning_To_Recommend_CVPR_2021_supplemental.pdf)]
 
 ## Getting Started

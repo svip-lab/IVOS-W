@@ -7,15 +7,15 @@
 [Zhaoyun Yin](https://github.com/zyy-cn),
 [Jia Zheng](http://bertjiazheng.github.io),
 [Weixin Luo](https://zachluo.github.io),
-[Shenhan Qian](https://github.com/ShenhanQian),
+[Shenhan Qian](https://shenhanqian.com/),
 [Hanling Zhang](http://design.hnu.edu.cn/info/1023/5767.htm),
 [Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm).
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
 
-[[Preprint](https://arxiv.org/abs/2103.10391)]
-[[Supplementary Material](https://drive.google.com/file/d/1lxA4GV9eSmhtLlzdgoEqO3sJ0_fpZeA7/view?usp=sharing)]
-[[Poster](https://drive.google.com/file/d/1NHfzwy0Nk20crySkMIPaVFvMOjL142Hs/view?usp=sharing)]
+[[arXiv](https://arxiv.org/abs/2103.10391)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Yin_Learning_To_Recommend_CVPR_2021_supplemental.pdf)]
+[[Supp. Material](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Yin_Learning_To_Recommend_CVPR_2021_supplemental.pdf)]
 
 ## Getting Started
 
